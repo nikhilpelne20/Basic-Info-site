@@ -4,7 +4,7 @@ const fs = require('fs')
 const server = http.createServer((req,res)=>{
     res.writeHead(200, {'content-type': 'text/html'})
 
-    let path = "./"
+    let path = "./public/"
     switch(req.url){
         case "/":
             path+='index.html'
