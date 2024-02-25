@@ -1,0 +1,19 @@
+{
+  "name": "basic-info-site",
+  "version": "1.0.0",
+  "description": "Basic Information site using node.js (Odin Project)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikhilpelne20/Basic-Info-site.git"
+  },
+  "author": "nikhil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikhilpelne20/Basic-Info-site/issues"
+  },
+  "homepage": "https://github.com/nikhilpelne20/Basic-Info-site#readme"
+}
